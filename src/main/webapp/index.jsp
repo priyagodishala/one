@@ -778,7 +778,7 @@
             },
             {
                 id: 3,
-                title: 'Apple Watch Series 8',
+                title: 'Apple Watch Series 8-10',
                 price: 349,
                 oldPrice: 399,
                 rating: 5,
